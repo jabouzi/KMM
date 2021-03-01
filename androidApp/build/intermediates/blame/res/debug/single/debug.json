@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jabousk/AndroidStudioProjects/KMMApp/androidApp/build/intermediates/res/merged/debug/layout_item_launch.xml.flat",
+        "source": "/Users/jabousk/AndroidStudioProjects/KMMApp/androidApp/src/main/res/layout/item_launch.xml"
+    },
+    {
+        "merged": "/Users/jabousk/AndroidStudioProjects/KMMApp/androidApp/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/jabousk/AndroidStudioProjects/KMMApp/androidApp/src/main/res/layout/activity_main.xml"
+    }
+]
